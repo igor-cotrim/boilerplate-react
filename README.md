@@ -14,6 +14,14 @@ This project uses lot of stuff as:
 - [Husky](https://github.com/typicode/husky)
 - [Plop](https://plopjs.com)
 
+## Use Boilerplate
+
+```bash
+git clone https://github.com/igor-cotrim/boilerplate-react <YOUR_PROJECT_NAME>
+```
+
+or use this github Template
+
 ## Getting Started
 
 First, run the development server:
